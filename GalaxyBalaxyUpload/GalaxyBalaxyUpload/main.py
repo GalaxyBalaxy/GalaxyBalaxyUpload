@@ -257,7 +257,7 @@ def main():
     [/tr]
     [tr]
     [td]Bitrate:[/td]
-    [td]{bitrate_kbps}~ kbps (Averaged, Check Tracklist)[/td]
+    [td]{bitrate_kbps} kbps (First Song, Check Tracklist)[/td]
     [/tr]
     [tr]
     [td]Bits Per Sample[/td]
